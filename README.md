@@ -1,16 +1,22 @@
-# dicee_fourth_project
+# Dicee 🎲
 
-A new Flutter application.
+## Goal
 
-## Getting Started
+The objective of this project was to introduce myself to the core programming concepts that will form the foundation of most of the apps I will build in the future. This app will teach me how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
-This project is a starting point for a Flutter application.
+## What I created
 
-A few resources to get you started if this is your first Flutter project:
+I made a Las Vegas dice app. You can make the die roll at the press of a button.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Completed Project](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* What you will learn
+* How to use Flutter stateless widgets to design the user interface.
+* How to use Flutter stateful widgets to update the user interface.
+* How to change the properties of various widgets.
+* How to use onClick listeners to detect when buttons are pressed.
+* How to use setState to mark the widget tree as dirty and requiring update on the next render.
+* How to use expanded to make widgets adapt to screen dimensions.
+* Understand and use string interpolation.
+* Learn about basic dart programming concepts such as data types and functions.
+* Code and use gesture controls.
