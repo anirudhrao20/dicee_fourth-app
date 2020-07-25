@@ -10,7 +10,7 @@ I made a Las Vegas dice app. You can make the die roll at the press of a button.
 
 ![Completed Project](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif?raw=true)
 
-* What you will learn
+## What I Learned
 * How to use Flutter stateless widgets to design the user interface.
 * How to use Flutter stateful widgets to update the user interface.
 * How to change the properties of various widgets.
